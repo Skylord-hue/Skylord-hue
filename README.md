@@ -25,9 +25,9 @@ public:
 ### 🚀 About Me
 - 🎓 **Undergraduate:** 2nd-Year B.Tech CSE at **NIT Kurukshetra** (CGPA: **8.9 / 10**).
 - 🧠 **Competitive Programming & DSA:** Solved **120+ algorithmic challenges** across LeetCode and canonical platforms in modern **C++20**.
-- ⚙️ **Systems & Backend Focus:** Interested in low-level systems programming, operating system primitives, network reactors, and distributed architecture.
-- 💼 **Industry Experience:** Former Android App Development Intern at **Uplyx Solutions Pvt. Ltd.** (Engineered production modules following MVVM and clean architecture).
+- ⚙️ **Systems & Backend Focus:** Deeply interested in low-level systems programming, operating system primitives, network reactors, and distributed architecture.
 - 🛠️ **Current Build:** Developing an in-memory high-throughput Key-Value store (**Redis-Lite**) in C++20 with custom network event loops and LRU caching.
+- 💻 **Open Source:** Author and maintainer of **[DSA-Vault](https://github.com/Skylord-hue/DSA-Vault)**, featuring 20+ verified optimal C++20 algorithmic solutions.
 
 ---
 
